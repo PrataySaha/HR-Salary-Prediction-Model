@@ -1,4 +1,4 @@
-HR Salary Prediction
+HR Salary Prediction:
 This project aims to predict the annual salaries of employees based on their job rates and years of experience using machine learning techniques. It includes data analysis and visualization to understand the relationships between various features in the HR dataset.
 
 Key Features
