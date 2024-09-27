@@ -15,3 +15,5 @@ Pandas
 Scikit-learn
 Matplotlib
 Streamlit
+
+Prediction_App_Web_Link: http://localhost:8501/
